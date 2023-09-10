@@ -1,7 +1,7 @@
-# Abhivaadan-frontend
-#About ABHIVAADAN
+# Blogcraft-frontend
+#About BlogCraft
 
-Abhivaadan is a blogging website where users can blog about their Interests, delights, and their everyday feelings. AbhivaadanTypically entertains informal and
+Blogcraft is a blogging website where users can blog about their Interests, delights, and their everyday feelings. AbhivaadanTypically entertains informal and
 Conversational style. Anyone who Has a love for sharing parts of Their lives are welcome!
 
 #Functionalities
